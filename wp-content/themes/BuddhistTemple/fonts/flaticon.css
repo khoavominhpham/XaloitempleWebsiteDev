@@ -1,0 +1,124 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 30px;
+font-style: normal;
+
+}.flaticon-buddhism:before {
+	content: "\e000";
+}
+.flaticon-buddhism10:before {
+	content: "\e001";
+}
+.flaticon-buddhism2:before {
+	content: "\e002";
+}
+.flaticon-buddhism4:before {
+	content: "\e003";
+}
+.flaticon-buddhism6:before {
+	content: "\e004";
+}
+.flaticon-buddhism7:before {
+	content: "\e005";
+}
+.flaticon-buddhism8:before {
+	content: "\e006";
+}
+.flaticon-buddhism9:before {
+	content: "\e007";
+}
+.flaticon-china4:before {
+	content: "\e008";
+}
+.flaticon-china5:before {
+	content: "\e009";
+}
+.flaticon-flower208:before {
+	content: "\e00a";
+}
+.flaticon-flowers55:before {
+	content: "\e00b";
+}
+.flaticon-flowers56:before {
+	content: "\e00c";
+}
+.flaticon-flowers58:before {
+	content: "\e00d";
+}
+.flaticon-hiduism:before {
+	content: "\e00e";
+}
+.flaticon-india7:before {
+	content: "\e00f";
+}
+.flaticon-japan36:before {
+	content: "\e010";
+}
+.flaticon-kamakura1:before {
+	content: "\e011";
+}
+.flaticon-light137:before {
+	content: "\e012";
+}
+.flaticon-monument39:before {
+	content: "\e013";
+}
+.flaticon-pagoda:before {
+	content: "\e014";
+}
+.flaticon-pagoda1:before {
+	content: "\e015";
+}
+.flaticon-plant66:before {
+	content: "\e016";
+}
+.flaticon-relax9:before {
+	content: "\e017";
+}
+.flaticon-relaxing4:before {
+	content: "\e018";
+}
+.flaticon-religion:before {
+	content: "\e019";
+}
+.flaticon-religion14:before {
+	content: "\e01a";
+}
+.flaticon-religion35:before {
+	content: "\e01b";
+}
+.flaticon-religion38:before {
+	content: "\e01c";
+}
+.flaticon-religion39:before {
+	content: "\e01d";
+}
+.flaticon-religion40:before {
+	content: "\e01e";
+}
+.flaticon-religion41:before {
+	content: "\e01f";
+}
+.flaticon-religion42:before {
+	content: "\e020";
+}
+.flaticon-religion55:before {
+	content: "\e021";
+}
+.flaticon-religion78:before {
+	content: "\e022";
+}
+.flaticon-statue8:before {
+	content: "\e023";
+}
